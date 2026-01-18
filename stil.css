@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+color: #343d7e;
+font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+font-size: 16px;
+line-height: 20px;
+width: 600px;
+background-color: #9ecee8;
+padding: 20px;
+}
+.paragraf_1{color:#887dfb; background-color: e8ecff}
+.novi_blok {
+	background-color:;
+	padding:10px;
+	margin:0px;
+	width:70%;
+	
+}
+h1, h2 {
+font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+color: cadetblue;
+}
+
+span{color: rgb(255, 0, 255);}
+.pozadina{
+background-image:url("Slike/04.jpg"); 
+}
+.drugapozadina{
+background-color: darkcyan;
+}
+a:link {
+	color: black;
+    background-color: white;
+    padding: 5px;
+    line-height: 40px;
+    border:1px solid #000000;
+	}
+a:hover{ 
+background-color: darkgray;
+}
+img {
+	height:200px;
+}
